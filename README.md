@@ -1,7 +1,7 @@
 # 🚀 Nguyen Phi Long 
   **`Embedded Systems & IoT Student`**
   
-  ![image](https://res.cloudinary.com/dl3l2r1qo/video/upload/v1767328828/good_tkv1bo.mp4)
+  ![image](https://github.com/FiLongIoT/FiLongIoT/blob/main/onee.gif?raw=true)
 ---
 ### ⚡About Me
 As a student majoring in Embedded Systems and IoT, I have a special passion for embedded programming and smart IoT systems. I use microcontrollers like ESP32, Arduino, etc., in learning, research, and various projects.
