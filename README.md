@@ -3,7 +3,9 @@
 
   <hr> 
   
-  ![image](https://github.com/FiLongIoT/FiLongIoT/blob/main/onee.gif?raw=true)
+<div align="center">
+  <img src="https://github.com/FiLongIoT/FiLongIoT/blob/main/onee.gif?raw=true"
+</div>
   
 ---
 ### ⚡About Me
